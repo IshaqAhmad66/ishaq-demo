@@ -1,2 +1,2 @@
-# ishaq-demo
+# Ishaq-demo
 This is my first Git Repository.
